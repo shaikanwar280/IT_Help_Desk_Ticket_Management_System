@@ -35,3 +35,4 @@ templates/
   404.html
 requirements.txt
 ```
+![image alt](https://github.com/shaikanwar280/IT_Help_Desk_Ticket_Management_System/blob/aa657626afc129c5e2d1c14a139baa0324a46e03/Screenshot%202026-10-04%20111055.png)
